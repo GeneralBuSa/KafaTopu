@@ -40,23 +40,40 @@ Bu proje, popüler arcade futbol oyunlarından esinlenerek geliştirilmiş, iki 
 
 Bu oyunu çalıştırmak için herhangi bir özel kurulum gerekmez. Sadece tüm proje dosyalarını indirip `index.html` dosyasını doğrudan bir web tarayıcısında (Chrome, Firefox, Edge vb.) açmanız yeterlidir.
 
-### Proje Yapısı
+## 📁 Proje Yapısı
+
 kafa-topu/
+
 ├── index.html            # Oyunumuzu barındıran web sayfası 🌐
+
 ├── p5.js                 # Oyunun görsel ve interaktif ruhu: P5.js kütüphanesi ✨
+
 ├── config.js             # Oyunun genel ayarları ve durum değişkenleri ⚙️
+
 ├── assets.js             # Tüm resim ve medya yüklemeleri burada gerçekleşir 🖼️
+
 ├── player.js             # Oyuncu karakterlerinin tanımı ve davranışları 🧍
+
 ├── ball.js               # Futbol topunun fizik motoru ve çizimi ⚽
+
 ├── environment.js        # Saha, kaleler ve tribünler gibi oyun ortamı öğeleri 🏟️
+
 ├── ui.js                 # Skor, süre, talimatlar ve geri sayım ekranları 📊
+
 ├── game.js               # Oyunun ana mantığı, çarpışmalar ve gol kontrolleri 🎮
+
 ├── input.js              # Kullanıcı klavye girdilerini yönetir ⌨️
+
 └── main.js               # Oyunun kalbi: kurulum (setup) ve ana çizim döngüsü (draw) ❤️
+
 └── 1.png                 # Oyuncu 1'in sevimli kafa resmi 🧑‍🦰
+
 └── 2.png                 # Oyuncu 1'in havalı krampon resmi 👟
+
 └── 3.png                 # Oyuncu 2'nin karizmatik kafa resmi 🧑‍🦳
+
 └── 4.png                 # Oyuncu 2'nin şık krampon resmi ⚽️
+
 
 ## 🤝 Katkıda Bulunma
 
